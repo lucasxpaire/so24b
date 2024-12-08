@@ -30,5 +30,10 @@ typedef enum {
   N_DISPOSITIVOS
 } dispositivo_id_t;
 
+#define TECLADO 0
+#define TECLADO_OK 1
+#define TELA 2
+#define TELA_OK 3
+
 #endif // DISPOSITIVOS_H
 
